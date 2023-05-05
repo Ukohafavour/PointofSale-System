@@ -22,7 +22,7 @@ public:
     }
 };
 
-// Point of Sale class to handle the transactions
+// Point of Sale class to handle the transactions for Group 3 Stores
 class PointOfSale {
 private:
     Product products[5] = { Product("Sure deodorant spray for men", 1300), Product("Rexona deodorant spray", 900), Product("Canned Tiger beer", 200), Product("Maryland cookies", 500), Product("Hair closure", 2500) };
